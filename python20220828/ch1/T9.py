@@ -1,0 +1,5 @@
+print(2 + 3)
+print('2'+'3')
+#print(2 + '3')
+print(str(2) + '3')
+print(2 + int('3'))
